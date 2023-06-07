@@ -5,9 +5,9 @@ QB Checker is for use on the Infinite Leaftide Asheron's Call server. It will co
 
 ## Getting started
 
-1. Either download the [latest releases](https://github.com/Scoboose/QBCheck/releases) or build from source
+1. Either download the [latest releases](https://github.com/Scoboose/QBCheckr/releases) or build from source
 
-2. Download the [Master QB List](https://github.com/Scoboose/QBCheck/blob/master/MasterQBList.csv)
+2. Download the [Master QB List](https://github.com/Scoboose/QBCheckr/blob/master/MasterQBList.csv)
 
 2. Export your full `/qb list` from in-game
 * Disable chat time stamps
